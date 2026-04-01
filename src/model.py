@@ -10,7 +10,7 @@
 #  → decoded future poses
 #-----------------------------------------------------------------#
 
-# Version 1
+# Version 1, direct future prediction (no rollout)
 # [B, T, J*D]
 # → frame encoder == small MLP over joint coordinates per frame
 # → temporal model == transformer encoder over the sequence
