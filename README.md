@@ -16,10 +16,10 @@ The goal is to learn a compact, predictive representation of human dynamics that
 
 # Dataset
 
-We use a 17-joint subset of Human3.6M following common practice to remove redundant joints and focus on core human kinematics.
+We use a 17-joint subset of Human3.6M following common practice to remove redundant joints and focus on core human kinematics, and following standard subject splits.
 
 <p align="center">
-  <img src="docs/images/joints.png" width="200">
+  <img src="docs/images/joints.png" width="400">
 </p>
 
 # Evaluation
